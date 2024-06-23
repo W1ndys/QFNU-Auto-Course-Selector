@@ -8,7 +8,7 @@
 
    进入链接安装脚本猫 https://docs.scriptcat.org/#/
 
-   ![安装脚本猫](image-1.png)
+   ![安装脚本猫](assets/image-1.png)
 
    根据你自己的浏览器安装即可
 
@@ -20,7 +20,7 @@
 
    https://scriptcat.org/zh-CN/script-show-page/1934/
 
-   ![安装脚本](image.png)
+   ![安装脚本](assets/image.png)
 
 3. 配置脚本
 
@@ -30,4 +30,4 @@
 
    其余方法可以暂时看下图下面的`红色黄色部分`
 
-   ![原图](image-3-1.jpg)
+   ![原图](assets/image-3-1.jpg)
