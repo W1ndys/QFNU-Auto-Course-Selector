@@ -1,4 +1,4 @@
-# Qufu-Auto-Course-Selector
+# QFNU-Auto-Course-Selector
 
 曲阜师范大学选课帮助性脚本
 
