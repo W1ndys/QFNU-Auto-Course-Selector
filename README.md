@@ -1,6 +1,6 @@
 # Qufu-Auto-Course-Selector
 
-曲阜师范大学抢课脚本
+曲阜师范大学选课帮助性脚本
 
 ## 如何使用
 
